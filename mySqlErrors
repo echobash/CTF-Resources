@@ -1,0 +1,7 @@
+Mysql Error:- Row size too large (> 8126). Changing some columns to TEXT or BLOB may help.
+In current row format, BLOB prefix of 0 bytes is stored inline.
+
+
+Put the following in
+innodb_strict_mode = 0 
+/etc/mysql/my.cnf in ubuntu
