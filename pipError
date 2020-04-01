@@ -1,0 +1,6 @@
+pip internal error
+
+
+sudo apt remove python-pip
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python get-pip.py
