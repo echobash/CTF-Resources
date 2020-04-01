@@ -1,2 +1,2 @@
-sudo apt-get install python3-setuptools
-sudo easy_install3 pip
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
