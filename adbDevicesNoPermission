@@ -1,0 +1,7 @@
+sudo adb kill-server
+and then
+
+sudo adb start-server
+then connect your device turn Debugging on and type
+
+adb devices
