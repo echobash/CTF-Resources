@@ -1,0 +1,15 @@
+Today Php imagick was throwing an exception:-
+not authorized `/tmp/magick-20610404oG96iX2V6' @ error/constitute.c/ReadImage
+
+Solved by:-
+
+1.go to /etc/ImageMagick-6 or /etc/ImageMagick
+2. In the policy.xml:-
+   1.Comment this line:- <policy domain="coder" rights="none" pattern="MVG" />
+   2. Giving the read & write permission to pdf:- 
+           Change
+             <policy domain="coder" rights="none" pattern="PDF" />'
+           To
+             <policy domain="coder" rights="read|write" pattern="PDF" />
+3. Then,restart apache2
+           
