@@ -1,5 +1,8 @@
 Today Php imagick was throwing an exception:-
 not authorized `/tmp/magick-20610404oG96iX2V6' @ error/constitute.c/ReadImage
+I had installed the imagick php extension by:-
+
+sudo apt-get install php-imagick
 
 Solved by:-
 
