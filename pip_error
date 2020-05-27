@@ -1,0 +1,9 @@
+Collecting requirements.txt
+ Could not find a version that satisfies the requirement requirements.txt (from versions: )
+No matching distribution found for requirements.txt
+
+
+I was using pip install requirements.txt
+
+It was solved by using -r
+i.e pip install -r requirement.txt
