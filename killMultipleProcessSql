@@ -1,0 +1,5 @@
+information_schema.processlist contains all processes
+So concat the string "kill" with it and then run group_concat
+
+Overall Command becomes:-
+SELECT GROUP_CONCAT(CONCAT('KILL',id,'; ')) FROM information_schema.`PROCESSLIST`
