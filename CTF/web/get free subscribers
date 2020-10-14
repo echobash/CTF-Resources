@@ -1,0 +1,6 @@
+  Function : You can subscribe to channel  
+Exploit:  
+1. Subscribe to channel using username and capture the request of SUBMIT 
+2. Send it to intruder and remove auth_token param with token 
+3. Started attack for 250.  
+4. Check channel profile= 250 subscribers
