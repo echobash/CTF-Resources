@@ -8,3 +8,4 @@
 |CTF Forensics|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/forensics)|
 |CTF OSINT|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/osint)|
 |CTF Steganography|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/stego)|
+|CTF PWN|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/pwn)|
