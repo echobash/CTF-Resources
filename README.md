@@ -9,3 +9,4 @@
 |CTF OSINT|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/osint)|
 |CTF Steganography|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/stego)|
 |CTF PWN|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/pwn)|
+|CTF Misc|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/CTF/misc)|
