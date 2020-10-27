@@ -8,3 +8,4 @@
 |Historical Whois|[Whoxy](https://www.whoxy.com/whois-history/)|
 |Network-IoT|[Shodan](https://www.shodan.io/)|
 |Certificate Search|[crt.sh](https://crt.sh)|
+|Favicon Search|[faviconmap](https://faviconmap.shodan.io)|
