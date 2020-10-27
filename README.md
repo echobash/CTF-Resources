@@ -1,4 +1,4 @@
-# Common Errors And Hotfixes And Handy Scripts
+# Common Errors/Online Tools/Hotfixes/Handy Scripts
 |Category|Link|
 | ------ |------|
 | Installation Errors|[Here](https://github.com/echobash/commonErrorsTricksAndHotfixes/tree/master/InstallationErrors)|
