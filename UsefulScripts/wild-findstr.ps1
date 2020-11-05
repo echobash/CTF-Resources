@@ -1,0 +1,1 @@
+findstr /s /i Windows *.*
