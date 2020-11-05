@@ -1,0 +1,3 @@
+git clean -n #This is show the list of all untracked files
+
+git clean -f #This will remove all the untracked files

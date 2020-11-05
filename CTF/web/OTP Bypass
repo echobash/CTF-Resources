@@ -1,0 +1,17 @@
+OTP Bypass Bug Finding
+
+If You Found These Type Of Website Which Are Asking OTP For Login Or Signup Then
+Enter The Right OTP And Capture The Request, Do Intercept And Forward It
+You Got The Response Of 200 OK or Any Other Like 301 etc.
+
+Copy The Response, Now Again Signup/Sign In With Any Different No
+Or With Same No. But Enter Wrong OTP, Capture The Reqest In Burp Suite
+DO Intercept And Forward It, You Will Got 404 Not Found Or Any Other Response
+Just Paste Here Your Right Response Which You Copy Before And Forward It.
+
+You Successfuly Login With Wrong OTP
+
+If You Got Any Response Like "Invalid, Not Verified, Not Verify, Not Valid etc" When You Enter Wrong OTP
+Change Those Response With "Valid, Verified, Verify, Valid etc"
+
+You Successfuly Login With Wrong OTP
