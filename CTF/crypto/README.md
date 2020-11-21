@@ -7,4 +7,5 @@
 |For Various Operations/Compression etc|[CyberChef](https://gchq.github.io/CyberChef)|
 |Cryptographic Puzzle Solver|[Boxentriq](https://www.boxentriq.com)|
 |Cryptogram Solver|[quipquip](https://www.quipqiup.com/)|
-|Vigenere Bruteforce|[quipquip](https://www.guballa.de/vigenere-solver)|
+|Vigenere Bruteforce|[vigenere bruteforce](https://www.guballa.de/vigenere-solver)|
+|Cipher Identifier|[Cipher Identifier](https://bionsgadgets.appspot.com/gadget_forms/refscore_extended.html)|
