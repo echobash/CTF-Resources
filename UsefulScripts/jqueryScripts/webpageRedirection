@@ -1,0 +1,21 @@
+// window.location
+window.location.replace('http://www.example.com')
+window.location.assign('http://www.example.com')
+window.location.href = 'http://www.example.com'
+document.location.href = '/path'
+
+// window.history
+window.history.back()
+window.history.go(-1)
+
+// window.navigate; ONLY for old versions of Internet Explorer
+window.navigate('top.jsp')
+
+
+self.location = 'http://www.example.com';
+top.location = 'http://www.example.com';
+
+// jQuery
+$(location).attr('href','http://www.example.com')
+$(window).attr('location','http://www.example.com')
+$(location).prop('href', 'http://www.example.com')

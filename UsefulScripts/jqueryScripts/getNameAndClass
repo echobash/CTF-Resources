@@ -1,0 +1,3 @@
+var id_value = $(this).attr('id'); //get id value
+ var name_value = $(this).attr('name'); //get name value
+ var value = $(this).attr('value'); //get value any input or tag
