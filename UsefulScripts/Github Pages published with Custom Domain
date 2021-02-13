@@ -1,0 +1,34 @@
+There are some major steps for this.
+And it works since it worked for me atleast.
+
+I'll take an example of godaddy domain.
+
+Till this point I expect you have:-
+  a. A Domain bought from Godaddy
+  b. A site hosted on github which you want to be seen as something.com instead of  something.github.io
+
+1. Add the Github IPs to Godaddy DNS Manager:-
+    Godaddy DNS Manager:- https://dcc.godaddy.com/manage/dns?domainName=something.in
+    These are 4 Github IPs:- 185.199.108.153,185.199.109.153,185.199.110.153,185.199.111.153
+    Add these in A records of DNS Manager one by one like this.
+    There will be by default "parked" as placeholder, replace it by one of your IPs.
+
+
+      Type    Name    	Value   	          TTL   	
+      A     	@     	185.199.108.153	      600 seconds	
+      
+      
+    After that again,Click on Add and
+        select Type as A, host as @ and Points as the other three IPs one after other
+        and in The TTL select custom option and set it as 600 instead on 3600 seconds.
+2. Now go to the root directory of your github.io page and create a new file named "CNAME" and in the file,write your domain
+   name i.e something.in. And keep in mind that there should be no extra space of new line character in the end
+3.Now You can load your url something.io and it will open like charm. But it will open as http,so now as last step we will add
+  the https.
+4.Enforcing HTTPS for your GitHub Pages site otherwise by default they will be http
+    On GitHub, navigate to your site's repository.
+    Under your repository name, click  Settings.
+    Under "GitHub Pages," select Enforce HTTPS.
+5. You are done now.
+
+Enjoy !!
