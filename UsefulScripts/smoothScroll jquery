@@ -1,0 +1,6 @@
+$('.button').on('click',function(){
+    $('.checkout').show()
+    $('html, body').animate({
+        scrollTop: $(".checkout").offset().top
+    }, 500);
+})
