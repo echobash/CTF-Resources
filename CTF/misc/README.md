@@ -7,3 +7,5 @@
 |Malware Detection/Lookup|[virustotal.com](https://www.virustotal.com/gui/)|
 |Advanced Malware Threat Prevention|[metadefender](https://metadefender.opswat.com/?lang=en)|
 |Malware Threat Analysis in Files|[hybridanalysis](https://hybrid-analysis.com/)|
+|Plot from CSV|[csvplot](https://www.csvplot.com)|
+|File Converter|[convertio.co](https://convertio.co/)|
