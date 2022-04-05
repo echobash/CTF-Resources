@@ -6,3 +6,6 @@
 |JWT Decoding etc.|[jwt.io](https://jwt.io)|
 |JWK To PEM Convertor|[8gwifi](https://8gwifi.org/jwkconvertfunctions.jsp)|
 |JWK Generator|[mkjwk](https://mkjwk.org/)|
+|JS  Deobfuscator|[Deobfuscate.io](https://deobfuscate.io/)|
+
+
