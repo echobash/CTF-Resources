@@ -9,4 +9,5 @@
 |Cryptogram Solver|[quipquip](https://www.quipqiup.com/)|
 |Vigenere Bruteforce|[vigenere bruteforce](https://www.guballa.de/vigenere-solver)|
 |Cipher Identifier|[Cipher Identifier](https://bionsgadgets.appspot.com/gadget_forms/refscore_extended.html)|
+|Automatic Cipher Identifier|[SCWF Ninja](https://scwf.dima.ninja/)|
 |Step by step RSA Online|[Step by step RSA Online](https://www.cryptool.org/en/cto-highlights/rsa-step-by-step)|
